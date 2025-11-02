@@ -1,0 +1,8 @@
+[client]
+showErrorDetails = true
+
+[server]
+maxUploadSize = 200
+
+[python]
+version = "3.11"
